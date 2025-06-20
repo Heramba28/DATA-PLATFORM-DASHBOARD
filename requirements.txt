@@ -1,0 +1,9 @@
+streamlit>=1.30
+pandas>=1.5
+numpy>=1.23
+plotly>=5.18
+matplotlib>=3.7
+seaborn>=0.12
+fpdf>=1.7
+requests>=2.28
+xlsxwriter>=3.1
